@@ -1,0 +1,94 @@
+#t_body {
+    min-height: 550px;
+    padding: 5px;
+    width: 100%;
+    overflow: hidden;
+    background: #fff;
+    color: #000;
+    vertical-align: top;
+    margin: 9px 10px 3px 0;
+    border-top: 1px solid #aaa;
+    padding-top: 8px;
+    font: normal 13px / 1.35 'Oxygen Mono', 'lucida console', 'courier new', 'courier', monospace;
+}
+
+div{
+display: block;
+unicode-bidi: isolate;
+}
+
+body{
+margin: 41px 0 0 0;
+background: #fff;
+font: normal 14px/1.2 roboto,arial,helvetica;
+color: #000;
+}
+
+#t_body a{
+
+display: inline-block;
+padding: 0.3em 0.5em 0 0.5em;
+margin: 0.25em -0.5em 0 -0.5em;
+line-height: 1.3em;
+font-size: 100%;
+color: #04c;
+cursor: pointer;
+-webkit-border-radius: 0.4em;
+
+}
+
+a {
+    text-decoration: none;
+    color: #06e;
+}
+
+pre{
+display: block;
+font-family: monospace;
+unicode-bidi: isolate;
+white-space: pre;
+margin: 1em 0px;
+}
+:root{
+--main-max-width: 1220px;
+--sec-fonts: Khand,tahoma,verdana;
+}
+
+#titulo{
+    font:Times New Roman;
+    font-size: 5ex;
+    color:#00aa00;
+
+}
+
+*#subtitulo{
+    font:Times New Roman;
+    font-size: 4ex;
+    color:#008800;
+}
+
+h1
+{
+    text-align: center;
+    color:red;
+    text-transform: uppercase;
+
+}
+
+ol {
+    align-items: center;
+    color: #fff;
+}
+
+.box{
+    position: relative;
+    left: 280px;
+}
+
+html
+{
+    background-color:black;
+}
+#fondo-div{
+    background-color:black;
+}
