@@ -28,6 +28,30 @@
 div{
 display: block;
 unicode-bidi: isolate;
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+}
+
+body{
+margin: 41px 0 0 0;
+background: #fff;
+font: normal 14px/1.2 roboto,arial,helvetica;
+color: #000;
+}
+
+#t_body a{
+
+display: inline-block;
+padding: 0.3em 0.5em 0 0.5em;
+margin: 0.25em -0.5em 0 -0.5em;
+line-height: 1.3em;
+font-size: 100%;
+color: #04c;
+cursor: pointer;
+=======
+>>>>>>> c66c425326ad1152f36e789d3d45250f7039cb34
+>>>>>>> Stashed changes
 
 }
 
